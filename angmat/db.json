@@ -1,0 +1,129 @@
+{
+  "getAlldata": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Basic": [
+    {
+      "fullname": "iuytrew",
+      "email": "reet1904@gmail.com",
+      "fathername": "zdsdscds",
+      "mothername": "sdscdsc",
+      "mobile": "1231231233",
+      "id": 1
+    },
+    {
+      "fullname": "Reet Nayak",
+      "email": "reet1904@gmail.com",
+      "fathername": "Mukesh Nayak",
+      "mothername": "Archana Nayak",
+      "gender": "female",
+      "dob": "2000-04-19",
+      "mobile": "7697034444",
+      "id": 2
+    },
+    {
+      "fullname": "Rishi Nayak",
+      "email": "reet1904@gmail.com",
+      "fathername": "Mukesh Nayak",
+      "mothername": "Archana Nayak",
+      "gender": "female",
+      "dob": "2023-01-20",
+      "mobile": "9876543217",
+      "id": 3
+    },
+    {
+      "fullname": "Shubham Bangotra",
+      "email": "shu@gmail.com",
+      "fathername": "madan lal",
+      "mothername": "sushma devi",
+      "gender": "male",
+      "dob": "2023-01-13",
+      "mobile": "6002132131",
+      "id": 4
+    },
+    {
+      "fullname": "Shubham Bangotra",
+      "email": "shu@gmail.com",
+      "fathername": "madan lal",
+      "mothername": "sushma devi",
+      "gender": "male",
+      "dob": "2023-01-13",
+      "mobile": "6002132131",
+      "id": 5
+    }
+  ],
+  "Bank": [
+    {
+      "fullname": "Reet Nayak",
+      "Accno": "9876246372",
+      "bankname": "HDFC",
+      "ifsc": "987624ecth2",
+      "ib": "yes",
+      "mb": "yes",
+      "id": 1
+    },
+    {
+      "fullname": "Reet Nayak",
+      "Accno": "9876246372",
+      "bankname": "HDFC",
+      "ifsc": "987624ecth2",
+      "ib": "yes",
+      "mb": "yes",
+      "id": 1
+    },
+    {
+      "fullname": "",
+      "Accno": "",
+      "bankname": "",
+      "ifsc": "",
+      "ib": "",
+      "mb": "",
+      "id": 2
+    },
+    {
+      "fullname": "",
+      "Accno": "",
+      "bankname": "",
+      "ifsc": "",
+      "ib": "",
+      "mb": "",
+      "id": 3
+    }
+  ],
+  "Address": [
+    {
+      "presentadd": "245 ganesh puri",
+      "permanentadd": "jhgfdkjhgfdkjhgfdjh",
+      "id": 1
+    },
+    {
+      "presentadd": "45 ganesh puri",
+      "permanentadd": "35 ganesh puri",
+      "id": 1
+    },
+    {
+      "presentadd": "",
+      "permanentadd": "",
+      "id": 2
+    },
+    {
+      "presentadd": "",
+      "permanentadd": "",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
